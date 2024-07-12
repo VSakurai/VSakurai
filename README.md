@@ -61,11 +61,15 @@
 
 <table>
   <tr>
-    <td align="left">
+    <td style="text-align: center; width: 33%;">
+      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=VSakurai&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats" />
+    </td>
+    <td style="text-align: left; width: 33%;">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=VSakurai&theme=dark&background=000000" alt="GitHub Streak Stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSakurai&layout=compact&theme=vision-friendly-dark" />
+    <td style="text-align: right; width: 33%;">
+      <img height="195px" alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSakurai&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
+
