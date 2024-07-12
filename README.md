@@ -39,36 +39,26 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif" width="50" height="50">
   <h3>Соц. сети:</h3>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://vk.com/vlad.error" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" title="VK" alt="VK" width="50" height="50"/
-  </a>
-  <a href="https://t.me/v_sakurai" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" title="Telegram" alt="Telegram" width="50" height="50"/>
-  </a>
-  <a href="https://discordapp.com/users/401125141788229632" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Discord-256.png" title="Discord" alt="Discord" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/VSakurai/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-256.png" title="GitHub" alt="GitHub" width="50" height="50"/>
-  </a>
+<div id="badges" align="center" style="font-size: 0;">
+  <a href="https://vk.com/vlad.error" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/vk-com.png" title="VK" alt="VK" width="50" height="50"/></a><a href="https://t.me/v_sakurai" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" title="Telegram" alt="Telegram" width="50" height="50"/></a><a href="https://discordapp.com/users/401125141788229632" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" title="Discord" alt="Discord" width="50" height="50"/></a><a href="https://github.com/VSakurai/" target="_blank" style="display: inline-block;"><img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" title="GitHub" alt="GitHub" width="50" height="50"/></a>
 </div>
 
 ---
 
 # 📊 GitHub Статистика:
 
-<table>
+<table width="100%">
   <tr>
-    <td style="text-align: center; width: 33%;">
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=VSakurai&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats" />
+    <td colspan="2" align="center">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api?username=VSakurai&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117"/>
     </td>
-    <td style="text-align: left; width: 33%;">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=VSakurai&theme=dark&background=000000" alt="GitHub Streak Stats" />
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSakurai&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
     </td>
-    <td style="text-align: right; width: 33%;">
-      <img height="195px" alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSakurai&layout=compact&theme=vision-friendly-dark" />
+    <td width="50%" align="center">
+      <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=VSakurai&theme=dark&hide_border=true&background=0D1117"/>
     </td>
   </tr>
 </table>
