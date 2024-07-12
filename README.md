@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" width="400" height="400">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" width="100%" height="100%">
 </div>
 
 <div align="center">
