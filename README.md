@@ -18,8 +18,8 @@
 
 # 👨 About me:
 
-- I am a beginner FrontEnd / BackEnd developer. I’m learning a programming language myself, in the winter of 2023 I decided to create the first bot in Discord in Python for a conversation where I am a member.
- I was so fascinated by this bot that I liked programming. In the summer of 2024 I decided to study JavaScript, CSS, HTML, Node.js. It was very difficult to learn all this, but I am always ready to learn new things!
+- I am a beginner Full Stack developer. I myself am studying a programming language, and in the winter of 2023 I decided to create the first Discord bot in Python for a conversation in which I am a participant.
+ I was so fascinated by this bot that I enjoyed programming. In the summer of 2024, I decided to learn JavaScript, CSS, HTML, Node.js. It was very difficult to learn all this, but I am always ready to learn new things!
 
 ---
 
