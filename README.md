@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3>Привет 👋 Меня зовут Влад!</h3>
+<h3>Hello 👋 My name is Vlad!</h3>
 </div>
 
 ---
@@ -16,14 +16,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-39E5E5">
 </div>
 
-# 👨 Обо мне:
+# 👨 About me:
 
-- Я начинающий FrontEnd / BackEnd разработчик. Учусь языку программирования сам, зимой 2023 решил создать первого бота в Discord на Python для беседы, где я состою.
-  Так увлекся этим ботом, что мне понравилось программирование. Летом 2024 решил изучать JavaScript, CSS, HTML, Node.js. Было очень трудно все это изучать, но я всегда готов учиться новому!
+- I am a beginner FrontEnd / BackEnd developer. I’m learning a programming language myself, in the winter of 2023 I decided to create the first bot in Discord in Python for a conversation where I am a member.
+ I was so fascinated by this bot that I liked programming. In the summer of 2024 I decided to study JavaScript, CSS, HTML, Node.js. It was very difficult to learn all this, but I am always ready to learn new things!
 
 ---
 
-# 🧑‍💻 Технологический стек:
+# 🧑‍💻 Technology stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp 
@@ -37,7 +37,7 @@
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif" width="50" height="50">
-  <h3>Соц. сети:</h3>
+  <h3>Social network:</h3>
 </div>
 <div id="badges" align="center" style="font-size: 0;">
   <a href="https://vk.com/vlad.error" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/vk-com.png" title="VK" alt="VK" width="50" height="50"/></a><a href="https://t.me/v_sakurai" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" title="Telegram" alt="Telegram" width="50" height="50"/></a><a href="https://discordapp.com/users/401125141788229632" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" title="Discord" alt="Discord" width="50" height="50"/></a><a href="https://github.com/VSakurai/" target="_blank" style="display: inline-block;"><img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" title="GitHub" alt="GitHub" width="50" height="50"/></a>
@@ -45,7 +45,7 @@
 
 ---
 
-# 📊 GitHub Статистика:
+# 📊 GitHub Stats:
 
 <table width="100%">
   <tr>
