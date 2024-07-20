@@ -10,7 +10,6 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=VSakurai.visitor-badge&left_text=My%20Page%20Visitors)
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/FrontEnd-Blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-EEF60A">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-39E5E5">
