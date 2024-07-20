@@ -18,8 +18,8 @@
 
 # 👨 About me:
 
-- I am a beginner Full Stack developer. I'm learning to program on my own, in the winter of 2023 I decided to create my first Discord bot in Python for a conversation I'm participating in.
- I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript, CSS, HTML and Node.js.
+- I am a beginner BackEnd developer. I'm learning to program on my own, and in the winter of 2023 I decided to create my first Discord bot in Python for a conversation I'm participating in.
+ I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript.
 - It was very difficult, but I am always ready to learn new things, look for new challenges and opportunities for growth! Let's communicate, collaborate and create something unusual!
 
 ---
@@ -37,8 +37,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp
 </div>
 
