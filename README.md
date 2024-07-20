@@ -10,6 +10,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=VSakurai.visitor-badge&left_text=My%20Page%20Visitors)
 <div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/FrontEnd-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-EEF60A">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-39E5E5">
@@ -17,8 +18,8 @@
 
 # 👨 About me:
 
-- I am a beginner BackEnd developer. I'm learning to program on my own, and in the winter of 2023 I decided to create my first Discord bot in Python for a conversation I'm participating in.
- I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript.
+- I am a beginner FullStack developer. I'm learning to program on my own, and in the winter of 2023 I decided to create my first Discord bot in Python for a conversation I'm participating in.
+ I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript, HTML5, CSS.
 - It was very difficult, but I am always ready to learn new things, look for new challenges and opportunities for growth! Let's communicate, collaborate and create something unusual!
 
 ---
@@ -37,6 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTMl5" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp
 </div>
 
 ---
