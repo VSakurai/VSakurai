@@ -19,7 +19,7 @@
 # 👨 About me:
 
 - I am a beginner FullStack developer. I'm learning to program on my own, and in the winter of 2023 I decided to create my first Discord bot in Python for a conversation I'm participating in.
- I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript, HTML5, CSS.
+ I was so fascinated by this that I began to enjoy the programming process. In the summer of 2024, I decided to learn JavaScript, HTML5, CSS3.
 - It was very difficult, but I am always ready to learn new things, look for new challenges and opportunities for growth! Let's communicate, collaborate and create something unusual!
 
 ---
